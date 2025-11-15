@@ -1,4 +1,4 @@
-const THEME_KEY = 'theme'; // 'light' | 'dark'
+const THEME_KEY = 'theme'; 
 const TOGGLE_ID = '#themeToggle';
 
 function applyTheme(theme) {
